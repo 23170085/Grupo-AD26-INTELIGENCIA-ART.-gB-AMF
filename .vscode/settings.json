@@ -1,5 +1,13 @@
 {
     "java.project.sourcePaths": [
         "BusquedasNoInformadas/src"
+    ],
+    "python.defaultInterpreterPath": "${workspaceFolder}\\DatasetPropio\\.venv\\Scripts\\python.exe",
+    "python-envs.pythonProjects": [
+        {
+            "path": "DatasetPropio",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
     ]
 }
